@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CustomView">
+        <attr name="anim_duration" format="integer" />
+        <attr name="outer_slice_solid_color" format="color" />
+        <attr name="middle_slice_solid_color" format="color" />
+        <attr name="inner_slice_solid_color" format="color" />
+
+        <attr name="shadow_color" format="color" />
+        <attr name="outer_slice_shadow_color" format="color" />
+        <attr name="middle_slice_shadow_color" format="color" />
+        <attr name="inner_slice_shadow_color" format="color" />
+        <attr name="incremental_angle" format="float" />
+
+        <attr name="enable_shadow" format="boolean" />
+    </declare-styleable>
+
+</resources>
